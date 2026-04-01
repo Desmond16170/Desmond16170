@@ -6,7 +6,7 @@
      {,
       "Email" : "luifer1029@gmail.com",
       "Discord" : "Desmond16170"
-
+      "Instagram" : "Nando_gmk3"
      }
  }
 ```
