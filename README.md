@@ -22,16 +22,18 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-black?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase">
 </p>
 
 <h4>Programming Languages</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
 </p>
 
 <h4>Data manipulation and post-processing technologies/libraries</h4>
