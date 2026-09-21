@@ -1,90 +1,77 @@
-# Luis Fernando Herrera Vargas
+```shell
+{
+  "name" : "Luis Fernando Herrera Vargas",
+  "AKA"  : "Desmond",
+  "role" : "IT support / backend",
+  "data" :
+  {
+    "Email" : "luisfer1029@gmail.com",
+    "Discord" : "Desmond16170",
+    "Instagram" : "Nando_gmk3"
+  }
+}
+```
 
-Estudiante de Ingeniería Eléctrica en la Universidad de Costa Rica, con énfasis en Computadores y Redes. Me interesa el área de infraestructura, redes de computadoras, soporte TI y el desarrollo de soluciones tecnológicas para problemas reales.
+![Desmond Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desmond16170&theme=tokyonight)
 
-Tengo experiencia práctica en diagnóstico y mantenimiento de equipos, soporte de hardware y software, configuración de sistemas y desarrollo de aplicaciones web. Actualmente continúo ampliando mis conocimientos en tecnologías web, bases de datos y servicios backend.
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desmond16170&theme=tokyonight)
 
-## Sobre mí
+<h3>
+  Principal Stack
+</h3>
 
-- Estudiante de Ingeniería Eléctrica — Computadores y Redes, Universidad de Costa Rica
-- Experiencia en soporte técnico, mantenimiento y diagnóstico de hardware y software
-- Conocimientos en redes, direccionamiento IP, subnetting, DHCP, DNS, switching y routing
-- Experiencia práctica desarrollando aplicaciones con Firebase y Supabase
-- Interés en infraestructura, redes, sistemas y desarrollo de herramientas útiles
-- Español nativo e inglés nivel B1
+<p>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
+</p>
 
-## Formación técnica
+<h4>Programming Languages</h4>
 
-**CCNA — Universidad de Costa Rica**
+<p>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c">
+</p>
 
-- Introduction to Networks
-- Switching, Routing and Wireless Essentials
-- Enterprise Networking, Security and Automation — en curso
+<h4>Data manipulation and post-processing technologies/libraries</h4>
 
-**Cisco IT Essentials — Universidad de Costa Rica**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy">
+</p>
 
-- Ensamblaje y actualización de equipos
-- Sistemas operativos Windows y Linux
-- Diagnóstico y resolución de fallas de hardware y software
+<h4>Virtualization and Containers</h4>
 
-## Proyectos destacados
+<p>
+  <img src="https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=virtualbox">
+</p>
 
-### [BusUCR](https://github.com/Desmond16170/busUCR)
+<h4>Technologies used in projects</h4>
 
-Plataforma web para estudiantes de la Universidad de Costa Rica que utilizan rutas externas de transporte.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge">
+</p>
 
-Incluye horarios por ruta, estimación de posición del bus, GPS para detectar la parada más cercana, reportes colaborativos, notificaciones y un panel administrativo.
+<h4>Deployment</h4>
 
-**Tecnologías:** HTML, CSS, JavaScript, Firebase Firestore, Firebase Authentication, PWA y Netlify.
+<p>
+  <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify">
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
+</p>
 
-### [Jugos y Frutas Del Este](https://github.com/Desmond16170/Facturacion_FrutasdelEste)
+<h4>Tools & Technologies</h4>
 
-Sitio web y sistema de gestión de catálogo desarrollado para una operación comercial real.
-
-Incluye catálogo dinámico, carrito y cotizaciones por WhatsApp, gestión de productos y categorías, códigos de cliente con precios especiales, autenticación administrativa, almacenamiento de imágenes e importación/exportación mediante Excel.
-
-**Tecnologías:** HTML, CSS, JavaScript, Supabase, PostgreSQL, Supabase Auth, Supabase Storage, SheetJS y Vercel.
-
-## Tecnologías
-
-### Uso habitual
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase)
-![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel)
-
-### Actualmente aprendiendo y fortaleciendo
-
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-
-## Áreas de interés
-
-- Redes de computadoras
-- Soporte e infraestructura TI
-- Hardware y diagnóstico de sistemas
-- Desarrollo de aplicaciones web
-- Automatización y herramientas para resolver necesidades reales
-
-## GitHub
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desmond16170&theme=github_dark)
-
-![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desmond16170&theme=github_dark)
-
-## Contacto
-
-- GitHub: [@Desmond16170](https://github.com/Desmond16170)
-- Correo: [luisfer1029@gmail.com](mailto:luisfer1029@gmail.com)
-
----
-
-<p align="center">Luis Fernando Herrera Vargas</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=visualstudiocode">
+</p>
